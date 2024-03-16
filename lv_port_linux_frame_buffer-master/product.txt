@@ -1,0 +1,12 @@
+1  cola  2.5  S:/root/pics/Cola.png  10  S:/root/pics/2code.png  0 1
+2  xuebi  3.5  S:/root/pics/xuebi.png  10  S:/root/pics/2code.png  0 1
+3  nongfu  3  S:/root/pics/nongfu.png  15  S:/root/pics/2code.png  0 1
+4  milk  5  S:/root/pics/milk.png  15  S:/root/pics/2code.png  0 1
+5  milktea  5  S:/root/pics/milktea.png  15  S:/root/pics/2code.png  0 1
+6  xuegao  5  S:/root/pics/xuegao.png  15  S:/root/pics/2code.png  0 2
+7  chips  5  S:/root/pics/chips.png  15  S:/root/pics/2code.png  0 2
+8  juice  5  S:/root/pics/juice.png  15  S:/root/pics/2code.png  0 1
+9  mask  5  S:/root/pics/mask.png  15  S:/root/pics/2code.png  0 3
+10  paper  5  S:/root/pics/paper.png  15  S:/root/pics/2code.png  0 3
+11  peanut  5  S:/root/pics/peanut.png  15  S:/root/pics/2code.png  0 2
+12  guazi  5  S:/root/pics/guazi.png  15  S:/root/pics/2code.png  0 2
